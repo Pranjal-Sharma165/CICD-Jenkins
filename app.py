@@ -18,6 +18,7 @@ def main():
     print("Subtraction:", subtract(10, 4))
     print("Multiplication:", multiply(5, 3))
     print("GitHub webhook integration successful!")
+    print("Automated Docker deployment successful!")
 
 
 if __name__ == "__main__":
