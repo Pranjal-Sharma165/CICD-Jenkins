@@ -17,6 +17,7 @@ def main():
     print("Addition:", add(5, 3))
     print("Subtraction:", subtract(10, 4))
     print("Multiplication:", multiply(5, 3))
+    print("GitHub webhook integration successful!")
 
 
 if __name__ == "__main__":
